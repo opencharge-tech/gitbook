@@ -1,4 +1,4 @@
-# Customers Pitch \(2 min 30 sec\)
+# Customers Pitch \(2 min\)
 
 ## Customers
 

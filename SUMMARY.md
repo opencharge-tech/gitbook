@@ -9,7 +9,7 @@
 * [Какие существуют модели потребления](prodict/kakie-sushestvuyut-modeli-potrebleniya.md)
 * [Какие имеющиеся потребность закрывает сервис](prodict/kakie-imeyushiesya-potrebnost-zakryvaet-servis.md)
 * [Миссия, цели и задачи сервиса](prodict/cel-servisa.md)
-* [Кто конкуренты](prodict/kto-konkurenty.md)
+* [Кто конкуренты?](prodict/kto-konkurenty.md)
 * [Почему мы сосредоточены на локальном рынке?](prodict/pochemu-my-sosredotocheny-na-lokalnom-rynke.md)
 * [В чём ваше преимущество](prodict/v-chyom-vashe-preimushestvo..md)
 * [Целевая аудитория](prodict/celevaya-auditoriya.md)
