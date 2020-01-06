@@ -37,7 +37,7 @@
 
 ## App
 
-* [Structure](app/photos.md)
+* [Структура сервиса](app/photos.md)
 * [Service](app/service.md)
 
 ## Подписки <a id="subscribtions"></a>
@@ -53,7 +53,7 @@
 
 ## Chanchelog
 
-* [Plan](chanchelog/plan.md)
+* [План действий](chanchelog/plan.md)
 
 ## Заметки <a id="notes"></a>
 
