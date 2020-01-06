@@ -1,4 +1,4 @@
-# Investors Pitch \(2 min\)
+# Investors Pitch \(2 min 30 sec\)
 
 ### Какие проблемы существуют на рынке?
 

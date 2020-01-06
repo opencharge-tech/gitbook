@@ -55,7 +55,6 @@
 ## Chanchelog
 
 * [Plan](chanchelog/plan.md)
-* [Changelog](chanchelog/changelog.md)
 
 ## Заметки <a id="notes"></a>
 
