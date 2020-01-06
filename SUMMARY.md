@@ -7,21 +7,22 @@
 * [Команда](prodict/komanda.md)
 * [Какую проблему решаем](prodict/kakuyu-problemu-reshaem.md)
 * [Какие имеющиеся потребность закрывает сервис](prodict/kakie-imeyushiesya-potrebnost-zakryvaet-servis.md)
+* [Миссия](prodict/missiya.md)
 * [Задача](prodict/zadacha.md)
 * [Цель сервиса](prodict/cel-servisa.md)
 * [Кто конкуренты](prodict/kto-konkurenty.md)
+* [Почему мы сосредоточены на локальном рынке?](prodict/pochemu-my-sosredotocheny-na-lokalnom-rynke.md)
 * [В чём ваше преимущество](prodict/v-chyom-vashe-preimushestvo..md)
 * [Целевая аудитория](prodict/celevaya-auditoriya.md)
-* [Продажи](prodict/prodazhi.md)
-* [Маркетинг](prodict/marketing.md)
+* [Маркетинг и продажи](prodict/prodazhi.md)
 * [Монетизация](prodict/monetizaciya.md)
-* [Какие метрики нужно трекать](prodict/kakie-metriki-nuzhno-trekat.md)
+* [Какие метрики нужно отслеживать](prodict/kakie-metriki-nuzhno-trekat.md)
 
 ## Питчи <a id="pitch"></a>
 
 * [Elevator Pitch \(30 sec\)](pitch/elevator.md)
-* [Customers Pitch \(2 min\)](pitch/customers.md)
-* [Investors Pitch \(2 min\)](pitch/investors.md)
+* [Customers Pitch \(2 min 30 sec\)](pitch/customers.md)
+* [Investors Pitch \(2 min 30 sec\)](pitch/investors.md)
 
 ## YCombinator
 
@@ -51,13 +52,12 @@
 * [Путешествия](subscribtions/puteshestviya.md)
 * [Пространство](subscribtions/prostranstvo.md)
 
-## Заметки <a id="notes"></a>
-
-* [Draft](notes/draft.md)
-
 ## Chanchelog
 
 * [Plan](chanchelog/plan.md)
 * [Changelog](chanchelog/changelog.md)
-* [Untitled](untitled.md)
+
+## Заметки <a id="notes"></a>
+
+* [Draft](notes/draft.md)
 
