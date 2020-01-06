@@ -31,10 +31,6 @@
 
 * [Проверка гипотез](customer-development/untitled.md)
 
-## References
-
-* [References](references/references.md)
-
 ## App
 
 * [Структура сервиса](app/photos.md)
@@ -54,6 +50,10 @@
 ## Chanchelog
 
 * [План действий](chanchelog/plan.md)
+
+## References
+
+* [References](references/references.md)
 
 ## Заметки <a id="notes"></a>
 
