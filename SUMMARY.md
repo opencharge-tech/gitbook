@@ -6,10 +6,11 @@
 
 * [Команда](prodict/komanda.md)
 * [Какую проблему решаем](prodict/kakuyu-problemu-reshaem.md)
+* [Какие существуют модели потребления](prodict/kakie-sushestvuyut-modeli-potrebleniya.md)
 * [Какие имеющиеся потребность закрывает сервис](prodict/kakie-imeyushiesya-potrebnost-zakryvaet-servis.md)
 * [Миссия](prodict/missiya.md)
-* [Задача](prodict/zadacha.md)
 * [Цель сервиса](prodict/cel-servisa.md)
+* [Задача](prodict/zadacha.md)
 * [Кто конкуренты](prodict/kto-konkurenty.md)
 * [Почему мы сосредоточены на локальном рынке?](prodict/pochemu-my-sosredotocheny-na-lokalnom-rynke.md)
 * [В чём ваше преимущество](prodict/v-chyom-vashe-preimushestvo..md)
