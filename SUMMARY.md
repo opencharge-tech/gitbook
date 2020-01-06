@@ -38,7 +38,7 @@
 ## App
 
 * [Структура сервиса](app/photos.md)
-* [Service](app/service.md)
+* [Зоны ответственности](app/service.md)
 
 ## Подписки <a id="subscribtions"></a>
 
