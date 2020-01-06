@@ -4,18 +4,18 @@
 
 ## Продукт <a id="prodict"></a>
 
-* [Команда](prodict/komanda.md)
-* [Какую проблему решаем](prodict/kakuyu-problemu-reshaem.md)
-* [Какие существуют модели потребления](prodict/kakie-sushestvuyut-modeli-potrebleniya.md)
+* [Кто наша команда команда?](prodict/komanda.md)
+* [Какую проблему решаем?](prodict/kakuyu-problemu-reshaem.md)
+* [Какие существуют модели потребления?](prodict/kakie-sushestvuyut-modeli-potrebleniya.md)
 * [Какие имеющиеся потребность закрывает сервис](prodict/kakie-imeyushiesya-potrebnost-zakryvaet-servis.md)
-* [Миссия, цели и задачи сервиса](prodict/cel-servisa.md)
-* [Кто конкуренты?](prodict/kto-konkurenty.md)
+* [Какая миссия \(основная цель\) и задачи сервиса?](prodict/cel-servisa.md)
+* [Кто наши конкуренты?](prodict/kto-konkurenty.md)
 * [Почему мы сосредоточены на локальном рынке?](prodict/pochemu-my-sosredotocheny-na-lokalnom-rynke.md)
-* [В чём ваше преимущество](prodict/v-chyom-vashe-preimushestvo..md)
-* [Целевая аудитория](prodict/celevaya-auditoriya.md)
+* [В чём наше преимущество?](prodict/v-chyom-vashe-preimushestvo..md)
+* [Кто наша целевая аудитория?](prodict/celevaya-auditoriya.md)
 * [Маркетинг и продажи](prodict/prodazhi.md)
 * [Монетизация](prodict/monetizaciya.md)
-* [Какие метрики нужно отслеживать](prodict/kakie-metriki-nuzhno-trekat.md)
+* [Какие метрики нужно отслеживать?](prodict/kakie-metriki-nuzhno-trekat.md)
 
 ## Питчи <a id="pitch"></a>
 
