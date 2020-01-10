@@ -16,6 +16,7 @@
 * [Маркетинг и продажи](prodict/prodazhi.md)
 * [Монетизация](prodict/monetizaciya.md)
 * [Какие метрики нужно отслеживать?](prodict/kakie-metriki-nuzhno-trekat.md)
+* [Вариации для манёвра](prodict/variacii-dlya-manyovra.md)
 
 ## Питчи <a id="pitch"></a>
 
@@ -50,6 +51,7 @@
 ## Chanchelog
 
 * [План действий](chanchelog/plan.md)
+* [Порядок](chanchelog/poryadok.md)
 
 ## References
 
